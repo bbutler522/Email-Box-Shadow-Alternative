@@ -1,5 +1,5 @@
 # Email-Box-Shadow-Alternative
-A straightforward and seemingly cross-browser solution to add a psuedo box-shadow to HTML Emails
+A straightforward and seemingly cross-browser solution to add a psuedo box-shadow to HTML Emails. Getting email templates working stylistically cross-device/browser can be a challenge, so this is a solution to one type of common CSS3 style that won't work on most clients.
 
 ## Instructions
 1. Create the desired box-shadow in photoshop including transparency and save it as a png.
